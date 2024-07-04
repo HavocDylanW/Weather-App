@@ -40,9 +40,9 @@ flutter pub get
 - Home
 - Hourly updated weather
 
-## Wiki
+## OpenWeather
 
-Checkout [wiki](https://github.com/zubairehman/flutter-boilerplate-project/wiki) for more info
+Checkout [openweather](https://openweathermap.org/) for more info
 
 ## Conclusion
 
